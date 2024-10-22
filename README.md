@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @VenomGu
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning JavaScript. 
-- 💞️ I’m looking to collaborate on projects to learn more!
-- 📫 How to reach me messaging me here or @gustavocalastro
+- 👋 Hi, I’m Gustavo Calastro
+- 👀 Evoluindo todos os dias como dev
+- 🌱 Atualmente eu uso HTML, CSS, JavaScript, Typescript, PHP, React
+- 💞️ Estou fazendo novos projetos pra evoluir como dev!
+- 📫 Se quiser me contatar, mande mensagem por aqui ou no meu email gu.calastro@gmail.com
 
 <!---
 VenomGu/VenomGu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
