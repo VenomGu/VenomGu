@@ -3,6 +3,7 @@
 - 🌱 Atualmente eu uso HTML, CSS, JavaScript, Typescript, PHP, React
 - 💞️ Estou fazendo novos projetos pra evoluir como dev!
 - 📫 Se quiser me contatar, mande mensagem por aqui ou no meu email gu.calastro@gmail.com
+- 😎 Sou fluente em inglês
 
 <!---
 VenomGu/VenomGu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
