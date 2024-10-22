@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gustavo Calastro
+- 👋 Olá, me chamo Gustavo Calastro
 - 👀 Evoluindo todos os dias como dev
 - 🌱 Atualmente eu uso HTML, CSS, JavaScript, Typescript, PHP, React
 - 💞️ Estou fazendo novos projetos pra evoluir como dev!
